@@ -1,3 +1,9 @@
 # Open AI - Pay
 DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,oaistatic.com
+# Cursor
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+
+# Copilot
+DOMAIN-SUFFIX,githubcopilot.com
