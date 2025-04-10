@@ -1,1 +1,13 @@
+# Docker
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
 
+# Flutter
+DOMAIN-SUFFIX,pub.dev
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,dartpad.dev
+
+
+# Gradle
+DOMAIN-SUFFIX,gradle.org
+DOMAIN-SUFFIX,jcenter.bintray.com
